@@ -66,3 +66,4 @@ if __name__ == "__main__":
     busqueda = "Nike"
     paginas = 5
     scrape_amazon_product_info(busqueda, paginas)
+
