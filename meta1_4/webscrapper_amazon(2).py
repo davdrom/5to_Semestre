@@ -24,3 +24,7 @@ btnSearch.click()
 navegador.save_screenshot("Amazon_Screenshot.png")
 
 time.sleep(2)
+
+"""
+prueba
+"""
